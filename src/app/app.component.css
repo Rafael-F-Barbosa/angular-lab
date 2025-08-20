@@ -1,0 +1,12 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.server-box {
+  border: 2px solid purple;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #f9f5ff;
+}
